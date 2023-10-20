@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://www.example.com/</loc>
-      <lastmod>2005-01-01</lastmod>
+      <lastmod>2005-01-01</lastmod> //staticky měníme každý den nebo pokud zvládnem, tak v čase podle změn na stránce. Osobně jsem zastánce fixníhí změny každý den jendou třeba. 
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
